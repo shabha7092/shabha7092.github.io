@@ -1,0 +1,214 @@
+{
+  "basics": {
+    "name": "Shabhareesh Komirishetty",
+    "label": "Machine Learning Engineer",
+    "picture": "",
+    "email": "shabha@gmail.com",
+    "phone": "(210) 749-1545",
+    "summary": "Shabhareesh is a experienced software engineer with a demonstrated history of working in the internet industry. Skilled in Machine Learning/Data Engineering with a Master's degree in Computer Science from University of Illinois at Chicago. He likes and yearns to learn on the job and apply new ideas to solve challenging and interesting problems.",
+    "location": {
+      "address": "791 North Fair Oaks Avenue Apt 7",
+      "postalCode": "CA 94085",
+      "city": "Sunnyvale",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shabhareesh-komirishetty-16b3b027",
+        "url": "https://www.linkedin.com/in/shabhareesh-komirishetty-16b3b027/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yahoo Inc.",
+      "position": "Software Development Engineer II",
+      "website": "https://www.yahoo.com/",
+      "startDate": "2015-08-05",
+      "summary": "Working on building a recommender system which predicts if an app is likely to be installed by user by computing probable click through rate / conversion rate using Logistic Regression Algorithm.",
+      "highlights": [
+        "App Install Click / Install Event Attribution",
+        "Feature Engineering",
+        "Model Generation/ Evaluation",
+        "Real Time Scoring",
+        "E2E Workflow Management"
+      ]
+    },
+    {
+      "company": "Yahoo Inc.",
+      "position": "Software Development Engineer II",
+      "website": "https://www.yahoo.com/",
+      "startDate": "2015-08-05",
+      "summary": "Working on building a Machine Learning Pipeline which categorize publisher's into different buckets to maximize their revenue.",
+      "highlights": [
+        "Feature Engineering",
+        "Feature Selection / Importance",
+        "K means Clustering / Gaussian Mixture Models",
+        "E2E Workflow Management"
+      ]
+    },
+    {
+      "company": "Yahoo Inc.",
+      "position": "Software Development Engineer II",
+      "website": "https://www.yahoo.com/",
+      "startDate": "2015-08-05",
+      "summary": "Built a Spam Detection System that detects fraud publishers using various publisher metrics such as ads requested, ads returned, click through rate, impression fill rate etc.",
+      "highlights": [
+        "Feature Engineering",
+        "Univariate / Multivariate Anomaly Detection",
+        "E2E Workflow Management"
+      ]
+    },
+    {
+      "company": "Yahoo Inc.",
+      "position": "Software Development Engineer",
+      "website": "https://www.yahoo.com/",
+      "startDate": "2014-02-13",
+      "endDate":   "2015-08-04",
+      "summary": "Built an application that provides a mapping between different system identifiers of yahoo with the device ID’s of the mobile which helps to join the user behavior on desktop to behavior on mobile.",
+      "highlights": [
+        "Attribution of User Activity on Yahoo Eco System"
+      ]
+    },
+    {
+      "company": "Yahoo Inc.",
+      "position": "Software Development Engineer",
+      "website": "https://www.yahoo.com/",
+      "startDate": "2014-02-13",
+      "endDate":   "2015-08-04",
+      "summary": "Worked on developing Storm topologies for processing serve /impressions / clicks / conversion data sets with lambda architecture to extract Advertiser and Publisher Metrics which are exposed by Druid API’s."
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois At Chicago",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2012-01-07",
+      "endDate": "2013-12-15",
+      "gpa": "3.5",
+      "courses": [
+        "Database Managment Systems",
+        "Information Retreival",
+        "Data Mining",
+        "Introduction to Computer Networking",
+        "Algorithms I",
+        "Algorithms II",
+        "Computational Biology",
+        "Query Processing"
+      ]
+    }
+   ],
+    "publications": [
+    {
+      "name": "TAC optimization",
+      "publisher": "Yahoo Inc.",
+      "releaseDate": "2017-04-27",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Method to optimize ex-TAC revenue for Yahoo by regulating supply."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "C#",
+        "Python"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "keywords": [
+        "Parameter Server",
+        "Scikit-Learn",
+        "Pandas",
+        "Spark ML Lib"
+      ]
+    },
+    { 
+      "name": "Workflow Management",
+      "level": "Master",
+      "keywords": [
+        "Apache Oozie",
+        "Airflow"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Hadoop",
+        "Apache Kafka",
+        "Apache Storm",
+        "Apache Spark",
+        "Hibernate"
+      ]
+    },
+    {
+      "name": "Datastores",
+      "level": "Master",
+      "keywords": [
+        "Mongo",
+        "Redis",
+        "Druid",
+        "MySql",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Master",
+      "keywords": [
+        "Shell",
+        "Apache pig",
+        "Hive",
+        "PL/SQL"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Intermediate",
+      "keywords": [
+        "Elixir",
+        "Avro",
+        "HTML",
+        "Git",
+        "CI/CD",
+        "XML",
+        "EJB",
+        "GNU Octave",
+        "Tableau",
+        "Superset"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Soccer",
+        "Cricket",
+        "Tennis",
+        "Ping Pong"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Vishnu Nath",
+      "reference": "It is my pleasure to recommend Shabhareesh, He is a very active and knowledgeable professional who puts in his very best to achieve the required goals. He is extremely committed to the tasks assigned to him and delivers consistently. All this, coupled with his extensive work experience, make him a valuable addition to any team."
+    }
+  ]
+}
